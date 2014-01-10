@@ -1,0 +1,10 @@
+1, 1, 1,
+2, 2, 2,
+3, 3, 3,
+4, 4, 4,
+Moo,hej,lol,
+okej,mm,oke,
+5,5,5,
+Lol,roflmao,rofl,
+asdf,asdf,asdf,
+fef,fef2,fef3
